@@ -63,9 +63,3 @@ My goal is clean reasoning, edge-case handling, and writing solutions that scale
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paavansirivardhan123&show_icons=true&theme=default&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paavansirivardhan123&layout=compact&hide_border=true" height="180"/>
-</p>
