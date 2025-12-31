@@ -34,7 +34,7 @@ I strengthen my algorithmic thinking through consistent practice on LeetCode —
 My goal is clean reasoning, edge-case handling, and writing solutions that scale.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/WHAT_IS_YOUR_ID?theme=transparent&border=0&radius=0&font=Fira%20Code" height="260" />
+  <img src="https://leetcard.jacoblin.cool/_PaavanSiriVardhan_?theme=transparent&border=0&radius=0&font=Fira%20Code" height="260" />
 </p>
 
 ---
